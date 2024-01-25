@@ -89,9 +89,6 @@ function User() {
                             </Card.Text>
                         </Card.Body>
                     </Card>
-                    <div className="mt-2 text-center">
-                        <p>Clique na carteira para visualizar o verso</p>
-                    </div>
                 </>
             )}
         </div>
